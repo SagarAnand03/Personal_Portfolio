@@ -50,7 +50,7 @@ const About = () => {
           </div>
 
           <p>
-          Madison Blackstone is a director of brand marketing, with experience managing global teams and multi-million-dollar campaigns. Her background in brand strategy, visual design, and account management inform her mindful but competitive approach. Madison is fueled by her passion for understanding the
+          Hello, I’m Sagar Anand , a passionate coder and web-developer , by profession . I like to design and build creative solutions that solve challenging digital problems . Currently pursuing B.Tech in CSE at ITER , SOA University.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

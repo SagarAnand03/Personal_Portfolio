@@ -1,7 +1,7 @@
 import React from 'react'
 import './contact.css'
 import { MdOutlineEmail } from 'react-icons/md'
-import { RiMessengerLine } from 'react-icons/ri'
+import { AiFillLinkedin } from 'react-icons/ai'
 import { BsWhatsapp } from 'react-icons/bs'
 
 /*import for emails js*/
@@ -44,10 +44,10 @@ const Contact = () => {
 
           <article className='contact__option'>
 
-            <RiMessengerLine className='contact__option-icon' />
-            <h4>Messenger</h4>
+            <AiFillLinkedin className='contact__option-icon' />
+            <h4>Linkedin</h4>
             <h5>Sagar Anand</h5>
-            <a href='https://m.me/sagaranand' target='Messenger'>Send a Message</a>
+            <a href='https://linkedin.com/in/sagar-anand-6ba504194' target='Linkedin'>Send a Message</a>
 
           </article>
 
@@ -55,8 +55,8 @@ const Contact = () => {
 
             <BsWhatsapp className='contact__option-icon' />
             <h4>Whatapp</h4>
-            <h5>+12453984245</h5>
-            <a href='https://api.whatapp.com/send?phone=+918500355444' target='Whatapp'>Send a Message</a>
+            <h5>+9254149456</h5>
+            <a href='https://api.whatsapp.com/send?phone=+918500355444' target='Whatapp'>Send a Message</a>
 
           </article>
 

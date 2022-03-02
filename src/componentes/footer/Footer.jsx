@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import { FaFacebookF } from 'react-icons/fa'
+import { BsGithub } from 'react-icons/bs'
 import { FiInstagram } from 'react-icons/fi'
 import { IoLogoTwitter } from 'react-icons/io'
 
@@ -25,15 +25,16 @@ const Footer = () => {
 
       <div className="footer__socials">
 
-        <a href='https://facebook.com' target='facebook'><FaFacebookF /></a>
-        <a href='https://instagram.com' target='instagram'><FiInstagram /></a>
-        <a href='https://twitter.com' target='twitter'><IoLogoTwitter /></a>
+        <a href='https://github.com/sa24449' target='Github'><BsGithub /></a>
+        <a href='https://instagram.com/sagaranand99' target='instagram'><FiInstagram /></a>
+        <a href='https://twitter.com/sagaran61717220' target='twitter'><IoLogoTwitter /></a>
+        
 
       </div>
 
       <div className="footer__copyright">
         <small>
-          &copy; All right reserved
+          &copy; All right reserved | Sagar Anand
         </small>
       </div>
 
