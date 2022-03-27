@@ -38,7 +38,7 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>sagaranand03@outlook.com</h5>
-            <a href='mailto:sa24449@hotmail.com' target='email'>Send a Message</a>
+            <a href='mailto:sagaranand03@outlook.com' target='email'>Send a Message</a>
 
           </article>
 
@@ -47,7 +47,7 @@ const Contact = () => {
             <SiMicrosoftteams className='contact__option-icon' />
             <h4>Microsoft Team</h4>
             <h5>Sagar Anand</h5>
-            <a href='https://teams.live.com/l/invite/FEAdB5_eMtlLbQaVQE' target='Microsoft_Team'>Send a Message</a>
+            <a href='https://teams.live.com/l/invite/FEAFDouk9XfacjIlwE' target='Microsoft_Team'>Send a Message</a>
 
           </article>
 
