@@ -7,7 +7,7 @@ const HeaderSocials = () => {
   return (
     <div className='header__socials'>
       <a href='https://www.linkedin.com/in/SagarAnand03' target="Linkedin"><BsLinkedin /></a>
-      <a href='https://github.com/sa24449' target="Github"><FaGithub /></a>
+      <a href='https://github.com/SagarAnand03' target="Github"><FaGithub /></a>
       <a href='https://devfolio.co/@SagarAnand' target="Dev"><FaDev /></a>
 
 
